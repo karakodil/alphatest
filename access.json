@@ -5,7 +5,7 @@
   "password": "alphatest",
   "passwordHash": "",
   "passwordHint": "Пароль из поста в моём ТГК @dbdmobila",
-  "onlineBlocked": false,
+  "onlineBlocked": true,
   "message": "Онлайн-матчи временно отключены — ведутся работы над сетью.",
   "blockedDevices": [],
   "requiredVersion": "",
