@@ -8,7 +8,7 @@
   "onlineBlocked": false,
   "message": "Онлайн-матчи временно отключены — ведутся работы над сетью.",
   "blockedDevices": [],
-  "requiredVersion": "",
+  "requiredVersion": "1.1",
   "strictMode": false,
   "strictGraceHours": 24
 }
