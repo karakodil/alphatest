@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "accessVersion": 1,
   "requirePassword": true,
-  "password": "",
+  "password": "alphatest",
   "passwordHash": "",
   "passwordHint": "Пароль из поста в моём ТГК @dbdmobila",
   "onlineBlocked": false,
