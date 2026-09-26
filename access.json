@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
   "accessVersion": 1,
-  "requirePassword": false,
+  "requirePassword": true,
   "password": "",
   "passwordHash": "",
-  "passwordHint": "Alpha",
+  "passwordHint": "Пароль из поста в моём ТГК @dbdmobila",
   "onlineBlocked": false,
   "message": "Онлайн-матчи временно отключены — ведутся работы над сетью.",
   "blockedDevices": [],
